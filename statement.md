@@ -69,7 +69,6 @@ The system validates:
 
 Regular student tuition fee:
 
-```text
 5000.00<img width="300" height="122" alt="Screenshot 2026-09-15 232540" src="https://github.com/user-attachments/assets/855950e3-b492-47f1-9fbe-db7981d6a145" />
 
 Object-Oriented Programming
@@ -85,3 +84,7 @@ The project demonstrates:
 7.Method Overriding
 8.super keyword
 9.this keyword
+
+```text
+
+
